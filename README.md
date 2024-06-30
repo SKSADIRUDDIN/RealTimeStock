@@ -24,8 +24,16 @@ This project aims to provide real-time updates on stock prices and related news 
 
 1. Before running the script, you need to obtain API keys for the following services:
 
-```plaintext
-STOCK_API_KEY = "your_alpha_vantage_api_key"
-NEWS_API_KEY = "your_news_api_key"
-TWILIO_SID = "your_twilio_sid"
-TWILIO_AUTH_TOKEN = "your_twilio_auth_token"
+```
+   STOCK_API_KEY = "your_alpha_vantage_api_key"
+   NEWS_API_KEY = "your_news_api_key"
+   TWILIO_SID = "your_twilio_sid"
+   TWILIO_AUTH_TOKEN = "your_twilio_auth_token"
+```
+---
+## Live View
+
+
+
+![Alt Text](https://github.com/SKSADIRUDDIN/RealTimeStock/blob/main/ImageForReadme.jpeg)
+
